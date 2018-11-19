@@ -1,0 +1,14 @@
+C:\Users\Dusan\source\repos\Selenium2\Selenium2\bin\Debug\Selenium2.exe.config
+C:\Users\Dusan\source\repos\Selenium2\Selenium2\bin\Debug\Selenium2.exe
+C:\Users\Dusan\source\repos\Selenium2\Selenium2\bin\Debug\Selenium2.pdb
+C:\Users\Dusan\source\repos\Selenium2\Selenium2\bin\Debug\nunit.framework.dll
+C:\Users\Dusan\source\repos\Selenium2\Selenium2\bin\Debug\WebDriver.dll
+C:\Users\Dusan\source\repos\Selenium2\Selenium2\bin\Debug\nunit.framework.pdb
+C:\Users\Dusan\source\repos\Selenium2\Selenium2\bin\Debug\nunit.framework.xml
+C:\Users\Dusan\source\repos\Selenium2\Selenium2\bin\Debug\WebDriver.xml
+C:\Users\Dusan\source\repos\Selenium2\Selenium2\obj\Debug\Selenium2.csprojAssemblyReference.cache
+C:\Users\Dusan\source\repos\Selenium2\Selenium2\obj\Debug\Selenium2.csproj.CoreCompileInputs.cache
+C:\Users\Dusan\source\repos\Selenium2\Selenium2\obj\Debug\Selenium2.csproj.CopyComplete
+C:\Users\Dusan\source\repos\Selenium2\Selenium2\obj\Debug\Selenium2.exe
+C:\Users\Dusan\source\repos\Selenium2\Selenium2\obj\Debug\Selenium2.pdb
+C:\Users\Dusan\source\repos\Selenium2\Selenium2\bin\Debug\SeleniumExtras.PageObjects.dll
